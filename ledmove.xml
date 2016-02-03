@@ -169,5 +169,4 @@
       <block type="movement_stop" id="20"></block>
     </next>
   </block>
-  <block type="movement_left" id="45" x="-182" y="76"></block>
 </xml>
