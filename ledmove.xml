@@ -77,7 +77,7 @@
                                                 <field name="ACTION">OFF</field>
                                                 <value name="LED">
                                                   <block type="math_number" id="59">
-                                                    <field name="NUM">1</field>
+                                                    <field name="NUM">3</field>
                                                   </block>
                                                 </value>
                                                 <next>
@@ -85,7 +85,7 @@
                                                     <field name="ACTION">OFF</field>
                                                     <value name="LED">
                                                       <block type="math_number" id="61">
-                                                        <field name="NUM">2</field>
+                                                        <field name="NUM">4</field>
                                                       </block>
                                                     </value>
                                                     <next>
